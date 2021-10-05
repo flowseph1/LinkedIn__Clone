@@ -1,4 +1,4 @@
-# LinkedIn Clone page - Update October 2021
+# LinkedIn Clone App - Update October 2021
 
 Developed by Jose Miguel Acosta Carias.
 
